@@ -12,4 +12,4 @@
 - 取り組んだレベル：基礎 
 - やったこと：app/agent.py INSTRUCTIONSを書き換えた。
 - 結果：一般的な答えを自信満々に答えた。
-- 気づき・疑問：--trace 付きで実行したら、search_glossaryを使っていないことがわかった。
+- 気づき・疑問：--trace 付きで実行したら、search_glossaryを使っていないことがわかった
